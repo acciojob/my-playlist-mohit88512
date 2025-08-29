@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+*{background-color: rgb(204, 204, 204)}
+#heading{text-align:center}
+#song{ border:2px solid black; border-radius: 10px; margin:5px 16px 3px 16px; padding-top: 4px; padding-bottom: 4px; background-color:white;}
+ul,li,a{background-color:white}
+li{list-style-type:none; margin:8px; }
+a{text-decoration-line:none}
+video{text-align:center; width: 420px; margin:10px 10px 10px 10px}
+#link{border:2px solid; border-radius:10px; background-color:white; margin:10px 40px}
+p,audio{background-color:white}
+audio{width: 420px; height:35px;  margin:10px 10px 10px 10px }
+#in{margin-bottom:2px}
